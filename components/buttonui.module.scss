@@ -1,0 +1,15 @@
+.button_ui {
+    background-color: transparent;
+    color: white;
+    border: 0;
+    &.close {
+        position: absolute;
+        top: 1rem; 
+        right: 1rem; 
+        color: white;
+    }
+}
+
+
+
+
